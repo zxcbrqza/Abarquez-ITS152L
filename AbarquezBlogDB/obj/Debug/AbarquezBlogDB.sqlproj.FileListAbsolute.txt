@@ -1,0 +1,10 @@
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\bin\Debug\AbarquezBlogDB.dacpac
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\bin\Debug\AbarquezBlogDB.dll
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\bin\Debug\AbarquezBlogDB.pdb
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\obj\Debug\AbarquezBlogDB.sqlproj.AssemblyReference.cache
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\obj\Debug\AbarquezBlogDB.dll
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\obj\Debug\AbarquezBlogDB.pdb
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\obj\Debug\Model.xml
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\obj\Debug\refactor.xml
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\obj\Debug\postdeploy.sql
+D:\devel\mapua\its152l\le2\AbarquezLE2\AbarquezBlogDB\obj\Debug\predeploy.sql
